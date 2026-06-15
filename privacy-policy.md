@@ -1,1 +1,9 @@
-IyBQcml2YWN5IFBvbGljeSAtIERhcG9sODIKCkxhc3QgdXBkYXRlZDogSnVuZSAxNSwgMjAyNgoKVGhpcyBhcHBsaWNhdGlvbiBpcyBhIHBlcnNvbmFsIGludGVncmF0aW9uIHRvb2wgYnkgRGFwb2w4MiB0aGF0IGNvbm5lY3RzIHRoZSBDbGF1ZGUgQUkgYXNzaXN0YW50IHdpdGggUGludGVyZXN0IEFQSSBmb3IgcGVyc29uYWwgY29udGVudCBtYW5hZ2VtZW50LgoKTm8gZGF0YSBpcyBjb2xsZWN0ZWQsIHN0b3JlZCwgb3Igc2hhcmVkIHdpdGggdGhpcmQgcGFydGllcy4gQWxsIFBpbnRlcmVzdCBkYXRhIGFjY2Vzc2VkIGlzIHVzZWQgZXhjbHVzaXZlbHkgYnkgdGhlIGFjY291bnQgb3duZXIuCgpDb250YWN0OiBkYXBvbDgyQGdtYWlsLmNvbQ==
+# Privacy Policy - Dapol82
+
+Last updated: June 15, 2026
+
+This application is a personal integration tool by Dapol82 that connects the Claude AI assistant with Pinterest API for personal content management.
+
+No data is collected, stored, or shared with third parties. All Pinterest data accessed is used exclusively by the account owner.
+
+Contact: dapol82@gmail.com
